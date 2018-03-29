@@ -21,3 +21,4 @@ node_modules/
 .idea
 .DS_Store
 *test-plugins
+plugins/insomnia-plugin-mastercard-auth

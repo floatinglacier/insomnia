@@ -1,0 +1,3 @@
+[submodule "plugins/insomnia-plugin-mastercard-auth"]
+	path = plugins/insomnia-plugin-mastercard-auth
+	url = https://github.com/Mastercard/insomnia-plugin-mastercard-auth.git

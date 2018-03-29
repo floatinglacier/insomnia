@@ -3,9 +3,9 @@
   "version": "1.0.14",
   "name": "insomnia-app",
   "app": {
-    "name": "insomnia",
-    "productName": "Insomnia",
-    "longName": "Insomnia REST Client",
+    "name": "insomnia-mastercard",
+    "productName": "Insomnia (Mastercard Version)",
+    "longName": "Insomnia REST Client (Mastercard Version)",
     "version": "5.14.9",
     "main": "main.min.js"
   },
@@ -108,6 +108,7 @@
     "insomnia-plugin-file": "^1.0.3",
     "insomnia-plugin-hash": "^1.0.3",
     "insomnia-plugin-jsonpath": "^1.0.1",
+    "insomnia-plugin-mastercard-auth": "^1.0.0",
     "insomnia-plugin-now": "^1.0.4",
     "insomnia-plugin-prompt": "^1.0.9",
     "insomnia-plugin-request": "^1.0.6",

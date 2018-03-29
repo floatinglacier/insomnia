@@ -41,6 +41,7 @@ const CORE_PLUGINS = [
   'insomnia-plugin-request',
   'insomnia-plugin-response',
   'insomnia-plugin-jsonpath'
+  ,'insomnia-plugin-mastercard-auth'
 ];
 
 let plugins: ?Array<Plugin> = null;
